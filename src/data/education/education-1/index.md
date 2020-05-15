@@ -1,9 +1,9 @@
 ---
 category: 'education'
-university: 'Columbia University'
+university: 'Freecode Camp'
 degree: 'Bachelor'
-startDate: 'Oct 2005'
-endDate: 'Jul 2008'
+startDate: 'Oct 2017'
+endDate: 'Jul 2019'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Learning Responsive Web Design and Learning Frontend Dev

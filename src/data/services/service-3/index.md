@@ -2,5 +2,5 @@
 category: 'services'
 title: 'Copywrite'
 icon: 'edit'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'I Love to write. Will help you to write review, caption other stuff for your product and gain more attension from people'
 ---

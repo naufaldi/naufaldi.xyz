@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'Forge Inc'
-position: 'UI/UX Designer'
-startDate: 'Mar 2010'
-endDate: 'Dec 2010'
+company: 'Deliv Indonesia'
+position: 'Frontend Dev'
+startDate: 'Okt 2018'
+endDate: 'Sept 2019'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Work as Frontend Developer. Helping implementation Agile, Build Landingpage and Dashboard.
