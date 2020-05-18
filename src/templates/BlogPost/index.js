@@ -8,6 +8,7 @@ import Container from 'components/ui/Container';
 import TitleSection from 'components/ui/TitleSection';
 import FormatHtml from 'components/utils/FormatHtml';
 
+import Dukung from 'components/Dukung';
 import * as Styled from './styles';
 
 const BlogPost = ({ data, pageContext }) => {
@@ -20,6 +21,7 @@ const BlogPost = ({ data, pageContext }) => {
       <Container section>
         <TitleSection title={post.frontmatter.date} subtitle={post.frontmatter.title} />
         <FormatHtml content={post.html} />
+        <Dukung/>
         <Styled.Links>
           <span>
             {previous && (
@@ -36,6 +38,7 @@ const BlogPost = ({ data, pageContext }) => {
             )}
           </span>
         </Styled.Links>
+        
       </Container>
     </Layout>
   );

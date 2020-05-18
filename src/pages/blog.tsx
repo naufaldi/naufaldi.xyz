@@ -11,6 +11,7 @@ const BlogPage: React.FC = () => {
       <SEO title="Blog" />
       <HeroBanner />
       <Posts />
+
     </Layout>
   );
 };
