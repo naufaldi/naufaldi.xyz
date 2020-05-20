@@ -59,6 +59,13 @@ module.exports = {
         tailwind: true,
         purgeOnly: [`src/assets/styles/global.css`]
       }
-    }
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+          trackingId: `xn7zWmnG9D4BZKDZdpbjK4sDLyi_MbbZKNHtRlhk8ak`,
+          head: true
+      }
+  }
   ]
 };
