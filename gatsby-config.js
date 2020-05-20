@@ -2,9 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `Naufaldi R`,
     description: `Blog pribadi dokumentasi Naufaldi mengenai Frontend, UX Research, Opini dan Cerita.`,
-    author: `Naufaldi Rafif S`
+    author: `Naufaldi Rafif S`,
+    siteUrl: `https://naufaldi.xyz`
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-typescript`,
     `gatsby-plugin-react-helmet`,
     {
