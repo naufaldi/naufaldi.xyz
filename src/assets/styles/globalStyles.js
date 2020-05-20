@@ -50,7 +50,7 @@ export default createGlobalStyle`
 }
 
 .format-html ul {
-  ${tw`list-disc mb-8`}  ;
+  ${tw`list-disc ml-4`}  ;
 }
 
 .format-html ol {
