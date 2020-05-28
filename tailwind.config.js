@@ -1,6 +1,14 @@
 module.exports = {
   theme: {
-    extend: {}
+    corePlugins: {
+      // ...
+  transitionProperty: true,
+    },
+    extend: {
+      'height' : {
+        '100': '25rem'
+      }
+    }
   },
   variants: {},
   plugins: []
