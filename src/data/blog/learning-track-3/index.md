@@ -10,7 +10,7 @@ published: true
 
 
 
-## Learning Track #2
+## Learning Track #3
 
 ![Learning](./learn.jpeg)
 
@@ -53,5 +53,7 @@ Tidak ada
 
 ### ⚙️Lainnya
 1. Fokus pada pekerjaan. Ada deadline pada akhir Mei.
+2. Memperbarui tampilan Blog dan menambahkan Project yang telah aku kerjakan
+3. Belajar Redux Middleware dan Styled Component
 
 
