@@ -24,5 +24,5 @@ export const SubHead = styled.p`
 ${tw` text-base mb-4 `}
 `;
 export const Img = styled.div`
-${tw` h-40 w-auto mt-8 shadow-md `}
+${tw` h-40 w-auto mt-8 `}
 `;

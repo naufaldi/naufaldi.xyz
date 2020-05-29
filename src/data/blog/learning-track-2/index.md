@@ -14,8 +14,8 @@ published: true
 
 ![Learning](./learn.jpeg)
 
-## Masa Belajar 25 - 27 Mei 2020
-Masa pembelaran mulai dari tanggal 25 - 27 Mei 2020 ini saya rangkum sebagai berikut :
+## Masa Belajar 25 - 26 Mei 2020
+Masa pembelaran mulai dari tanggal 25 - 26 Mei 2020 ini saya rangkum sebagai berikut :
 
 ### 🧾List Artikel Terbaca
 - [Reparenting ReactJS](https://dev.to/paolimi/reparenting-is-now-possible-with-react-3ci0)

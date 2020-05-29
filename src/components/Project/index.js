@@ -33,7 +33,7 @@ const Project = () => {
           </Styled.Link>
           <Styled.SubHead>GatsbyJS + TailwindCSS</Styled.SubHead>
           <Styled.Img> 
-            <img className="transition duration-300 ease-in-out transform hover:-translate-y-6" src={Naufaldi} alt="Naufaldi Website"/>
+            <img className="transition duration-300 ease-in-out transform hover:-translate-y-6 shadow-lg" src={Naufaldi} alt="Naufaldi Website"/>
           </Styled.Img>
           </Styled.Porto>
         </Styled.Box>
@@ -46,7 +46,7 @@ const Project = () => {
           </Styled.Link>
           <Styled.SubHead>ReactJS + BulmaCSS</Styled.SubHead>
           <Styled.Img> 
-            <img className="transition duration-300 ease-in-out transform hover:-translate-y-6" src={Deliv} alt="Deliv Beta Ver Landingpage"/>
+            <img className="transition duration-300 ease-in-out transform hover:-translate-y-6 shadow-lg" src={Deliv} alt="Deliv Beta Ver Landingpage"/>
           </Styled.Img>
           </Styled.Porto>
         </Styled.Box>
@@ -59,7 +59,7 @@ const Project = () => {
           </Styled.Link>
           <Styled.SubHead>Plain CSS</Styled.SubHead>
           <Styled.Img> 
-            <img className="transition duration-300 ease-in-out transform hover:-translate-y-6" src={Netflix} alt="               Netflix Clone Landingpage"/>
+            <img className="transition duration-300 ease-in-out transform hover:-translate-y-6 shadow-lg" src={Netflix} alt="               Netflix Clone Landingpage"/>
           </Styled.Img>
           </Styled.Porto>
         </Styled.Box>
@@ -72,7 +72,7 @@ const Project = () => {
           </Styled.Link>
           <Styled.SubHead>Plain CSS</Styled.SubHead>
           <Styled.Img> 
-            <img className="transition duration-300 ease-in-out transform hover:-translate-y-6" src={Huddle} alt="Huddle Landingpage"/>
+            <img className="transition duration-300 ease-in-out transform hover:-translate-y-6 shadow-lg" src={Huddle} alt="Huddle Landingpage"/>
           </Styled.Img>
           </Styled.Porto>
         </Styled.Box>
