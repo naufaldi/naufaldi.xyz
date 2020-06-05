@@ -55,7 +55,7 @@ Masa pembelaran mulai dari tanggal 03 - 05 Juni 2020 ini saya rangkum sebagai be
 ---
 
 ### ⚙️Lainnya
-1. Belajar Scrum dari channelnya pak Joshua Partologi
+1. Belajar Scrum dari channelnya pak Joshua Partogi
 2. Belajar React Intermediate dari FrontendMaster masih dibagian Redux
 3. Belum bisa memahami Typescript dengan baik dan benar
 
