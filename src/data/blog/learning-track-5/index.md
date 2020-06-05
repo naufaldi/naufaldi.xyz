@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-cover: '../learning-track-3/learn.jpeg'
+cover: './learn-2.jpeg'
 title: 'Learning Track #5'
 description: 'Learning track untuk mendokumentasikan apa saja yang telah aku lakukan dan melakukan review. Laksanakan setiap 2 hari sekali'
 date: '2020-06-05'
@@ -10,9 +10,9 @@ published: true
 
 
 
-## Learning Track #4
+## Learning Track #5
 
-![Learning](./learn.jpeg)
+![Learning](./learn-2.jpeg)
 
 ## Masa Belajar 03 - 5 Juni 2020
 Masa pembelaran mulai dari tanggal 03 - 05 Juni 2020 ini saya rangkum sebagai berikut :
@@ -28,6 +28,7 @@ Masa pembelaran mulai dari tanggal 03 - 05 Juni 2020 ini saya rangkum sebagai be
 - [Atomic CSS ](https://css-tricks.com/lets-define-exactly-atomic-css/)
 - [Array Classnames like VueJS ](https://www.npmjs.com/package/classnames)
 - [Evidence Based Management](https://www.scrum.org/resources/evidence-based-management)
+
 ---
 
 ### 📚Saved Tutorial
@@ -37,8 +38,8 @@ Masa pembelaran mulai dari tanggal 03 - 05 Juni 2020 ini saya rangkum sebagai be
 3. **Import Local Font** : cara import local font. Tautan : [Balboa](https://www.balbooa.com/knowledgebase/32-documentation-faq-joomla/176-how-to-add-custom-font-to-website-through-fontface) , [CSS Trick ](https://css-tricks.com/snippets/css/using-font-face/)
 
 ---
-### Scrum Youtube List 
-**Joshua Partologi Channel**
+### ⌚️Scrum Youtube List 
+**Joshua Partogi Channel**
 - [What Are the Differences Between Project Manager and Scrum Master](https://www.youtube.com/watch?v=7TyOlxmoOYo&t=194s)
 - [What Are The Differences Between Project Manager And Scrum Product Owner](https://www.youtube.com/watch?v=bEyz2jE43kY)
 - [What Is The Scrum Master Accountability | What Does The Scrum Master Do All Day?](https://www.youtube.com/watch?v=wFfrEp5JqAs)

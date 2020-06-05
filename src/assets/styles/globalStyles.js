@@ -42,7 +42,7 @@ export default createGlobalStyle`
   ${tw`my-6`}  ;
 }
 .format-html > hr {
-  ${tw`w-1/3 ml-auto mr-auto my-4`}  ;
+  ${tw`w-1/3 ml-auto mr-auto mb-4 mt-8`}  ;
 }
 
 .format-html > blockquote {
