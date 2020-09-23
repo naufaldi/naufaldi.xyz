@@ -54,7 +54,7 @@ export default createGlobalStyle`
 }
 
 .format-html ol {
-  ${tw`list-decimal mb-8`} ;
+  ${tw`list-decimal mb-8 pl-8`} ;
 }
 
 

@@ -68,7 +68,10 @@ const Posts = () => {
                 <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 1 }}>
                   <Styled.Card>
                     <Styled.Image>
-                      <Img fluid={cover.childImageSharp.fluid} alt={title} />
+                      <Img fluid={cover.childImageSharp.fluid} alt={title}
+                        style={{maxHeight: 'calc(50vh - 4rem)' }}
+                imgStyle={{ objectFit: 'contain' }}
+                       />
                     </Styled.Image>
                     <Styled.Content>
                       <Styled.Date>{date}</Styled.Date>
