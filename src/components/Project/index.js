@@ -76,8 +76,13 @@ const Project = () => {
               </Styled.Img>
             </Styled.Porto>
           </Styled.Box>
-
         </Styled.Grid>
+        <Styled.More>
+        <Styled.Readmore href="/project">
+          View All Project
+        </Styled.Readmore>
+        </Styled.More>
+
       </ContainerLg>
     </Styled.Project>
   )

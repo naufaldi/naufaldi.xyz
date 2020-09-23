@@ -177,7 +177,7 @@ const ProjectFull = () => {
               </Styled.Img>
             </Styled.Porto>
           </Styled.Box>
-
+         
         </Styled.Grid>
       </ContainerLg>
     </Styled.Project>
