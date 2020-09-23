@@ -9,7 +9,7 @@ export const Grid = styled.div`
 ${tw`flex -mx-6 mt-4 mb-8 flex-wrap w-full mx-auto flex-col md:flex-row`}
 `;
 export const Box = styled.div`
-${tw`flex w-1/2 h-auto px-6 my-8 w-full md:w-auto`}
+${tw`flex w-1/2 h-auto px-6 my-8 w-full md:w-6/12`}
 `;
 export const Porto = styled.div`
 ${tw`flex flex-col w-full bg-gray-300 text-center p-6 overflow-hidden`}
