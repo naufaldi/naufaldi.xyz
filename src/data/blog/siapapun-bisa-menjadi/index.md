@@ -2,7 +2,7 @@
 category: 'blog'
 cover: './pengembang.webp'
 title: 'Siapapun bisa menjadi pengembang perangkat lunak'
-description: 'Sering sekali saya mendapatkan pertanyaan dari Quora Indonesia mengenai pengembang perangkat lunak terutama yang berkaitan dengan "Siapa saja yang bisa menjadi pengembang perangkat lunak"..'
+description: 'Sering sekali saya mendapatkan pertanyaan dari Quora Indonesia mengenai ..'
 date: '2020-09-23'
 tags: ['Opini']
 published: true
